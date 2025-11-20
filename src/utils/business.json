@@ -1,0 +1,18 @@
+[
+  {
+    "user_email": "andres@example.com",
+    "registro_negocio": "REG-001",
+    "nombre_negocio": "Finca El Prado",
+    "ubicacion": "Antioquia",
+    "descripcion": "Productor de frutas y verduras",
+    "estado": true
+  },
+  {
+    "user_email": "camila@example.com",
+    "registro_negocio": "REG-002",
+    "nombre_negocio": "Café La Abuela",
+    "ubicacion": "Caldas",
+    "descripcion": "Venta y distribución de café",
+    "estado": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "order_user_email": "valentina@example.com",
+    "product_name": "Manzana Roja",
+    "cant": 2,
+    "iva_applied": 0,
+    "discount": 0,
+    "subtotal": 3001,
+    "date_created": "2025-11-18T01:10:00.000Z"
+  },
+  {
+    "order_user_email": "camila@example.com",
+    "product_name": "Café Molido",
+    "cant": 1,
+    "iva_applied": 0,
+    "discount": 0,
+    "subtotal": 12000,
+    "date_created": "2025-11-18T02:10:00.000Z"
+  }
+]

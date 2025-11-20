@@ -1,0 +1,14 @@
+[
+  {
+    "order_user_email": "valentina@example.com",
+    "fecha_emision": "2025-11-18T02:00:00.000Z",
+    "fecha_entrega": null,
+    "estado_envio": "pendiente"
+  },
+  {
+    "order_user_email": "camila@example.com",
+    "fecha_emision": "2025-11-18T02:30:00.000Z",
+    "fecha_entrega": null,
+    "estado_envio": "en_camino"
+  }
+]

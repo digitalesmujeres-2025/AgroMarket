@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Frutas",
+    "description": "Frutas frescas de temporada",
+    "isActive": true
+  },
+  {
+    "name": "Verduras",
+    "description": "Verduras de calidad",
+    "isActive": true
+  },
+  {
+    "name": "Café",
+    "description": "Productos derivados del café",
+    "isActive": true
+  }
+]

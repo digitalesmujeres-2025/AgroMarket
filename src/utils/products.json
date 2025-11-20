@@ -1,0 +1,26 @@
+[
+  {
+    "productCode": 1001,
+    "name": "Manzana Roja",
+    "stock": 100,
+    "basePrice": 1500.5,
+    "iva": 0,
+    "isActive": true,
+    "description": "Manzana fresca de cosecha",
+    "imageUrl": null,
+    "category_name": "Frutas",
+    "business_name": "Finca El Prado"
+  },
+  {
+    "productCode": 2001,
+    "name": "Café Molido",
+    "stock": 50,
+    "basePrice": 12000,
+    "iva": 0,
+    "isActive": true,
+    "description": "Café tradicional molido",
+    "imageUrl": null,
+    "category_name": "Café",
+    "business_name": "Café La Abuela"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "cedula": "123456789",
+    "name": "Angela",
+    "last_name": "Fernández",
+    "phone": "3001234567",
+    "email": "camila@example.com",
+    "address": "Cra 20 #10-11",
+    "role": "admin",
+    "status": true,
+    "creation_date": "2025-11-18T01:00:00.000Z",
+    "update_date": "2025-11-18T01:00:00.000Z",
+    "user_name": "camila123",
+    "password": "123456",
+    "last_access_date": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "cedula": "987654321",
+    "name": "Andrés",
+    "last_name": "Pérez",
+    "phone": "3007654321",
+    "email": "andres@example.com",
+    "address": "Cra 45 #20-10",
+    "role": "producer",
+    "status": true,
+    "creation_date": "2025-11-18T01:00:00.000Z",
+    "update_date": "2025-11-18T01:00:00.000Z",
+    "user_name": "andres_p",
+    "password": "abcd1234",
+    "last_access_date": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "cedula": "555666777",
+    "name": "Valentina",
+    "last_name": "Gómez",
+    "phone": "3005556677",
+    "email": "valentina@example.com",
+    "address": "Cl 50 #15-25",
+    "role": "customer",
+    "status": true,
+    "creation_date": "2025-11-18T01:00:00.000Z",
+    "update_date": "2025-11-18T01:00:00.000Z",
+    "user_name": "valentina_g",
+    "password": "pass5678",
+    "last_access_date": "2025-02-05T00:00:00.000Z"
+  }
+]
+
